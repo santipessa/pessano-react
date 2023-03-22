@@ -6,11 +6,7 @@ import CartWidget from '../CartWidget/CartWidget'
 const Navbar = () => {
     return (
         <nav className="Navbar">
-            <div style={{
-                width: '40%',
-                display: 'flex',
-                justifyContent: 'space-around',
-            }}>
+            <div>
                 <img src={logo} alt='logo'/>
             </div>  
             <div>
