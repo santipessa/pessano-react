@@ -1,0 +1,23 @@
+.ItemDetalle {
+    display: flex;
+    justify-content: center;
+    color:black;
+}
+
+.ItemCard {
+    width: 350px;
+    padding: 30px;
+    margin: 30px;
+    font-size: 10px;
+    background-color: #eee3d8;
+    border: 1px solid #ffc107;
+    border-radius: 10px;
+}
+
+.ItemDetailContainer {
+    justify-content: center;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    min-height: 20vh;
+}

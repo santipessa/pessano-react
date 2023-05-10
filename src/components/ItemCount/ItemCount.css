@@ -1,0 +1,16 @@
+.Counter {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    width: 300px;
+    margin: auto;
+}
+
+.Number {
+    font-size: 20px;
+    padding: 20px;
+    margin: 0;
+    order: 1;
+}
+
